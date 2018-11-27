@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FurnitureBOIX/ViewController.swift"
+            timestampString = "564804329.901733"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunitureBOIX.ViewController.vNode.getter : __C.SCNNode"
+                  moduleName = "FunitureBOIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonniengo/Desktop/FurnitureBOIX/FurnitureBOIX/ViewController.swift"
+                  timestampString = "564799771.654753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunitureBOIX.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FunitureBOIX.ViewController"
+                  moduleName = "FunitureBOIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonniengo/Desktop/FurnitureBOIX/FurnitureBOIX/ViewController.swift"
+                  timestampString = "564799771.657566"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunitureBOIX.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FunitureBOIX.ViewController&gt;"
+                  moduleName = "FunitureBOIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonniengo/Desktop/FurnitureBOIX/FurnitureBOIX/ViewController.swift"
+                  timestampString = "564799771.66044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FurnitureBOIX/ViewController.swift"
+            timestampString = "564804329.902499"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunitureBOIX.ViewController.cNode.getter : __C.SCNNode"
+                  moduleName = "FunitureBOIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonniengo/Desktop/FurnitureBOIX/FurnitureBOIX/ViewController.swift"
+                  timestampString = "564799741.504584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunitureBOIX.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FunitureBOIX.ViewController"
+                  moduleName = "FunitureBOIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonniengo/Desktop/FurnitureBOIX/FurnitureBOIX/ViewController.swift"
+                  timestampString = "564799741.506633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FunitureBOIX.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FunitureBOIX.ViewController&gt;"
+                  moduleName = "FunitureBOIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonniengo/Desktop/FurnitureBOIX/FurnitureBOIX/ViewController.swift"
+                  timestampString = "564799741.508505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
